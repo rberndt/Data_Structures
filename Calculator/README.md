@@ -1,2 +1,3 @@
-# Data_Structures_Project_One
-Repo for Data Structures Project One
+# Calculator
+
+Scientific calculator with a Stack used for operator precedence and a Hashmap for quick linked list traversal
